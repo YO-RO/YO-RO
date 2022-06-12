@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-  - Twitter: [@Nostalgia_LHC](https://twitter.com/Nostalgia_LHC)
 
 <!---
 YO-RO/YO-RO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
